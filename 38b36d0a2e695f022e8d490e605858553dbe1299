@@ -1,0 +1,23 @@
+src/plugins/core/rust.rs
+  5ac5aea2d4a1c781 225-228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "38b36d0a2e695f022e8d490e605858553dbe1299",
+  "prompts": {
+    "5ac5aea2d4a1c781": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "84d3661b-c0f2-40e3-acb8-0cb5416662b4",
+        "model": "claude-sonnet-4.5"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
